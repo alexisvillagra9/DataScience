@@ -19,19 +19,14 @@ conda install jupyter (Tambien se puede correr en Google Colab)
 ## Algunos Resultados Obtenidos <img src="https://image.flaticon.com/icons/png/512/45/45903.png" width=20>
 *Utilizando lagunas imagenes de pinturas conocidas como estilo obtuve los siguientes resultados:*
 \
-<img src="https://lh5.googleusercontent.com/pXHR3HW_873ASQzwZMx3IGX4xZnJ0SUyAaHbjHpdSu7khAaz33hLhh_SgEME2RtBuNW0PAHVJuB9pg=w1366-h625-rw" height=150>
-<img src="https://lh5.googleusercontent.com/nz1hDIs4_okZOlzrzuEFLagiB6sHpgfwseZeklRedUoGGwjVyCNS-5BUqokEZUmaI4WiKBPiP_-DFw=w1366-h625" height=150>
-<img src="https://lh4.googleusercontent.com/IIHitpA8ukLUFs3dYEtcghoI2vUnaXxa4q-s_gRhPNWwyCQChjCC4rNIOAZWYWAFps_JK_e5kqrnyw=w1366-h625" height=150>
+<img src="https://raw.githubusercontent.com/alexisvillagra9/DataScience/master/Deep%20Learning/Neural%20Style%20Transfer/Raw%20Images/Alexis.jpeg" height=150>
+<img src="https://raw.githubusercontent.com/alexisvillagra9/DataScience/master/Deep%20Learning/Neural%20Style%20Transfer/Styles/Art7.jpg" height=150>
+<img src="https://github.com/alexisvillagra9/DataScience/blob/master/Deep%20Learning/Neural%20Style%20Transfer/Final%20Images/Alexis-Art7100.jpg" height=150>
 \
-<img src="https://lh5.googleusercontent.com/pXHR3HW_873ASQzwZMx3IGX4xZnJ0SUyAaHbjHpdSu7khAaz33hLhh_SgEME2RtBuNW0PAHVJuB9pg=w1366-h625-rw" height=150>
-<img src="https://lh3.googleusercontent.com/ExjEnUVA0cv8wxy47duspje_v3ma0SRSLy7XFG1fMuoqdPLfirSbYu68nFQjraCgM6LRHqFTq8G4nA=w1366-h625" height=150>
-<img src="https://lh4.googleusercontent.com/rxGNb1WWlTceDgkfrjQEX6P2tLQVlcdVggNqzLGzlBDgRLNd-bRV_TUy16njnnBkKK1xmDUdSwLb6w=w1366-h625" height=150>
+<img src="https://raw.githubusercontent.com/alexisvillagra9/DataScience/master/Deep%20Learning/Neural%20Style%20Transfer/Raw%20Images/Alexis.jpeg" height=150>
+<img src="https://raw.githubusercontent.com/alexisvillagra9/DataScience/master/Deep%20Learning/Neural%20Style%20Transfer/Styles/Art3.jpg" height=150>
+<img src="https://raw.githubusercontent.com/alexisvillagra9/DataScience/master/Deep%20Learning/Neural%20Style%20Transfer/Final%20Images/Alexis-Art3100.jpg" height=150>
 \
-<img src="https://lh5.googleusercontent.com/pXHR3HW_873ASQzwZMx3IGX4xZnJ0SUyAaHbjHpdSu7khAaz33hLhh_SgEME2RtBuNW0PAHVJuB9pg=w1366-h625-rw" height=150>
-<img src="https://lh6.googleusercontent.com/zHGifDX-ORzByu0x6O5nn23Y_DPYcpLeIHRBDP_vFHuMKR92zX_VdnwiF7bK_-JeQ5g-LpNSEtF1iw=w1366-h625" height=150>
-<img src="https://lh6.googleusercontent.com/CdJzG8vnz1eFN4ALjpUD7x5UWSAOFi43slJA5QhUoVNBa1FAdjh4ofKFh3ITXgxd8gF8Z5zHK-zeMQ=w1366-h625" height=150>
-
-## Canal de Slack <img src="https://image.flaticon.com/icons/png/512/51/51736.png" width=20>
-*Si tienes sugerencias para mejorar el modelo utilizado o quieres compartir conocimientos referido a la Ciencia de Datos, te invito a que te unas al canal de Slack:*
-\
-[DataScienceHispano](https://join.slack.com/t/datasciencehispana/shared_invite/zt-cmpsmzxj-7BUzG3NzNlhqh8VXPjxM_A)
+<img src="https://raw.githubusercontent.com/alexisvillagra9/DataScience/master/Deep%20Learning/Neural%20Style%20Transfer/Raw%20Images/Alexis.jpeg" height=150>
+<img src="https://raw.githubusercontent.com/alexisvillagra9/DataScience/master/Deep%20Learning/Neural%20Style%20Transfer/Styles/Art8.jpg" height=150>
+<img src="https://raw.githubusercontent.com/alexisvillagra9/DataScience/master/Deep%20Learning/Neural%20Style%20Transfer/Final%20Images/Alexis-Art8100.jpg" height=150>
