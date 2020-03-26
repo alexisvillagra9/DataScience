@@ -17,11 +17,6 @@ conda install jupyter (Tambien se puede correr en Google Colab)
 !pip install sklearn
 ```
 ## Descargar modelo entrenado (FTZ) <img src="https://image.flaticon.com/icons/png/512/117/117106.png" width=20>
-*Si no quieres perder tiempo entrenando el modelo o cambiando parametros te dejo el enlace de descarga del modelo entrenado:*
+*Si no queres perder tiempo entrenando el modelo o cambiando parametros te dejo el enlace de descarga del modelo entrenado:*
 \
-[Descargar PKL](https://drive.google.com/file/d/15KtpZ_ZghHDDMTOwU00k0LjoOFYKEnQ0/view?usp=sharing)
-
-## Canal de Slack <img src="https://image.flaticon.com/icons/png/512/51/51736.png" width=20>
-*Si tienes sugerencias para mejorar el modelo utilizado o quieres compartir conocimientos referido a la Ciencia de Datos, te invito a que te unas al canal de Slack:*
-\
-[DataScienceHispano](https://join.slack.com/t/datasciencehispana/shared_invite/zt-cmpsmzxj-7BUzG3NzNlhqh8VXPjxM_A)
+[Descargar FTZ](https://drive.google.com/file/d/15KtpZ_ZghHDDMTOwU00k0LjoOFYKEnQ0/view?usp=sharing)
